@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1NoLVEBqkvrHwoYoEuxX0BeJvaJ5MtVrA
 """
 
-!pip install BitVector
+# !pip install BitVector
 
 
 """Tables"""
